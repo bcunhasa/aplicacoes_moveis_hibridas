@@ -1,0 +1,4 @@
+# Exclui todo o conteúdo dos diretórios 'platforms' e 'plugins'
+HelloWorld/platforms
+HelloWorld/plugins
+
